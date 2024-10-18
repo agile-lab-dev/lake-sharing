@@ -6,7 +6,7 @@ dependencies {
     constraints {
         api("org.hamcrest:hamcrest:2.2")
         api("org.openapitools:jackson-databind-nullable:0.2.6")
-        api("org.eclipse.microprofile.config:microprofile-config-api:3.0.3")
+        api("org.eclipse.microprofile.config:microprofile-config-api:3.1")
         api("org.eclipse.microprofile.openapi:microprofile-openapi-api:3.1.1")
         api("jakarta.validation:jakarta.validation-api:3.0.2")
         api("jakarta.inject:jakarta.inject-api:2.0.1")
