@@ -10,7 +10,7 @@ dependencies {
         api("org.eclipse.microprofile.openapi:microprofile-openapi-api:3.1.1")
         api("jakarta.validation:jakarta.validation-api:3.0.2")
         api("jakarta.inject:jakarta.inject-api:2.0.1")
-        api("jakarta.annotation:jakarta.annotation-api:2.1.1")
+        api("jakarta.annotation:jakarta.annotation-api:3.0.0")
         api("org.openapi4j:openapi-operation-validator:1.0.7")
         api("org.openapi4j:openapi-operation-restassured:1.0.7")
         api("org.junit.jupiter:junit-jupiter:5.10.2")
